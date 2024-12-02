@@ -1,0 +1,13 @@
+{
+    "name": "yma-cache",
+    "version": "1.0.0",
+    "description": "快捷方便操作 Cookie 或 LocalStorage",
+    "main": "./src/index.js",
+    "scripts": {},
+    "files": [
+        "src"
+    ],
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
